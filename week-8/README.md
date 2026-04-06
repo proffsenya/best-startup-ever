@@ -17,4 +17,4 @@
 
 ## 📋 Содержание
 
-<!-- - [Ссылка](/week-8/student_startup.docx) -->
+- [Ссылка на файл](/week-8/creating-mvp-p2.docx)
