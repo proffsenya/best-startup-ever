@@ -17,6 +17,4 @@
 
 ## 📋 Содержание
 
-<!--
-- [Ссылка на файл](/week-10/Memoriee_pr20.docx)
-- [Ссылка на проморолик](https://rutube.ru/video/private/c701a8a4a776ef2e2856ada6fb6b36a5/?p=jKwpCLUxk_F0QqusQrdmHA) -->
+- [Ссылка на файл](/week-12/financial-plan_growth-strategy.docx)
