@@ -15,7 +15,6 @@
 
 ** 1-2 занятие** • Создание Brand Book
 
-## 📋 Содержание
+<!-- ## 📋 Содержание
 
-- [Ссылка на pdf](/week-1/brand_book.pdf)
-- [Ссылка на png](/week-1/brand_book.png)
+- [Ссылка на pdf](/week-1/brand_book.pdf) -->
