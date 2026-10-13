@@ -17,4 +17,4 @@
 
 ## 📋 Содержание
 
-<!-- - [Ссылка на pdf](/week-1/brand_book.pdf) -->
+- [Ссылка на jpeg](/week-3/IMG_D99AD2FFAC91-1.jpeg)
