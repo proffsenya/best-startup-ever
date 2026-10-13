@@ -17,4 +17,4 @@
 
 ## 📋 Содержание
 
-- [Ссылка на pptx](/week-7/)
+- [Ссылка на pptx](/week-7/Memoriee_cruise.pptx)
